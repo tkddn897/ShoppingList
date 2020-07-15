@@ -1,2 +1,3 @@
 # ShoppingList
- Shopping List EX
+ Shopping List ex 
+ add localStorage save
