@@ -23,9 +23,9 @@ body {
   margin: auto;
   background-color: #f1f0f7;
   border-radius: 20px;
-  -webkit-box-shadow: 10px 10px 5px 0px rgba(166, 163, 166, 1);
+  /* -webkit-box-shadow: 10px 10px 5px 0px rgba(166, 163, 166, 1);
   -moz-box-shadow: 10px 10px 5px 0px rgba(166, 163, 166, 1);
-  box-shadow: 10px 10px 5px 0px rgba(166, 163, 166, 1);
+  box-shadow: 10px 10px 5px 0px rgba(166, 163, 166, 1); */
 }
 
 .header {

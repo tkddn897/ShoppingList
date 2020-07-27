@@ -49,7 +49,6 @@ addBtn.addEventListener("click", () => {
 input.addEventListener("keypress", (event) => {
   if (event.key === "Enter") {
     onAdd();
-    //items.addEventListener("submit", handleSubmit);
   }
 });
 
